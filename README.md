@@ -1,5 +1,5 @@
 ## Making a Music Player using Windows Forms.
-C# music player codes are in [/MusicPlayerWinForms/Form1.cs](https://github.com/AtakanTurgut/MusicPlayerWinForms/blob/main/MusicPlayerWinForms/Form1.cs).
+C# music player codes are in [/MusicPlayerWinForms/Form1.cs](https://github.com/AtakanTurgut/MusicPlayerWinForms/blob/main/musicplayer/Form1.cs).
 
 `Windows Media Player` was used to create the music player.
 <br>
