@@ -184,7 +184,6 @@
             this.Controls.Add(this.player);
             this.Name = "Form1";
             this.Text = "music player";
-            this.Load += new System.EventHandler(this.Form1_Load);
             ((System.ComponentModel.ISupportInitialize)(this.volumeLevel)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.player)).EndInit();
             this.ResumeLayout(false);

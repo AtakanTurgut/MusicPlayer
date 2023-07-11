@@ -17,11 +17,6 @@ namespace musicplayer
             InitializeComponent();
         }
 
-        private void Form1_Load(object sender, EventArgs e)
-        {
-
-        }
-
         string[] path, files;
 
         private void start_Click(object sender, EventArgs e)
